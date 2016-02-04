@@ -1,6 +1,6 @@
 Package.describe({
   name: 'nerdmed:camanjs',
-  summary: 'CamanJs - canvas manipulation in Javascript / client side only',
+  summary: 'CamanJs - canvas manipulation in Javascript',
   version: '0.0.1',
   git: 'https://github.com/pacozaa/meteor-camanjs.git'
 });
