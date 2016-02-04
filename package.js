@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'nerdmed:camanjs',
+  name: 'pacozaa:camanjs',
   summary: 'CamanJs - canvas manipulation in Javascript',
   version: '0.0.1',
   git: 'https://github.com/pacozaa/meteor-camanjs.git'
